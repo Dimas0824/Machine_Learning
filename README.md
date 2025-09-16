@@ -7,7 +7,6 @@ Repositori ini merupakan repositori pembelajaran machine learning milik **Muhamm
 ### Informasi Mahasiswa
 - **Nama**: Muhammad Irsyad Dimas Abdillah
 - **Kelas**: TI3H
-- **NIM**: 2341720088
 - **Institusi**: Politeknik Negeri Malang
 
 ### Tujuan Repositori
